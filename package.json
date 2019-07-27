@@ -1,5 +1,5 @@
 {
-  "name": "recipe-app",
+  "name": "c",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -45,5 +45,13 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.11.0",
     "typescript": "~3.2.2"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.4.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git add ."
+  },
+  "author": "",
+  "license": "ISC"
 }

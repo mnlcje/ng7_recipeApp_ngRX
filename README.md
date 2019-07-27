@@ -55,3 +55,14 @@ https://stackoverflow.com/questions/39494058/behaviorsubject-vs-observable
 ---RxJS - exhaustMap
 https://www.learnrxjs.io/operators/transformation/exhaustmap.html
 
+
+--Application State (Using Rdeux : Javascript library to implement Application State Mgmt)
+https://hackernoon.com/redux-for-dummies-867f7aff7a2f
+
+https://www.freecodecamp.org/news/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6/
+
+--why-are-reduxs-state-functions-called-reducers
+https://stackoverflow.com/questions/34376023/why-are-reduxs-state-functions-called-reducers
+
+
+
